@@ -1,0 +1,17 @@
+[
+  {
+    "id": "driver1",
+    "drivers_name": "Petr",
+    "bus": ""
+  },
+  {
+    "id": "driver2",
+    "drivers_name": "Askar",
+    "bus": ""
+  },
+  {
+    "id": "driver3",
+    "drivers_name": "Uson",
+    "bus": ""
+  }
+]

@@ -1,4 +1,4 @@
-package Classes;
+package com.company.Classes;
 
 public class Drivers {
     private String id, drivers_name, bus;
@@ -42,9 +42,9 @@ public class Drivers {
     @Override
     public String toString() {
         return "Drivers{" +
-                "id='" + id + '\'' +
-                ", drivers_name='" + drivers_name + '\'' +
-                ", bus='" + bus + '\'' +
+                "id='" + id + "\n" +
+                "drivers_name='" + drivers_name + "\n" +
+                "bus='" + bus + "\n" +
                 '}';
     }
 

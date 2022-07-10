@@ -3,18 +3,18 @@
     "id": 1,
     "name": "Renault Magnum",
     "driver": "",
-    "state": "base"
+    "CarState": "BASE"
   },
   {
     "id": 2,
     "name": "Volvo",
     "driver": "",
-    "state": "base"
+    "CarState": "BASE"
   },
   {
     "id": 3,
     "name": "DAF XT",
     "driver": "",
-    "state": "base"
+    "CarState": "BASE"
   }
 ]

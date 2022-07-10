@@ -1,4 +1,4 @@
-package Enums;
+package com.company.enums;
 
 public enum CarState {
     BASE,
